@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Wed Apr 06 13:16:14 CDT 2016
+#Wed Apr 06 13:18:08 CDT 2016
 editor.fx.0.height=700
 target2.width=80
 target8.name=winnerz
@@ -55,6 +55,7 @@ target5.name=PlayWorld
 world.lastInstantiated=PlayWorld
 mainWindow.width=1382
 readme.width=47
+class.Title.image=rps back.jpg
 class.Scissors.superclass=greenfoot.Actor
 target5.height=50
 target8.naviview.expanded=true
@@ -186,6 +187,7 @@ dependency17.from=winnerz
 dependency3.from=PlayWorld
 target1.typeParameters=
 target3.width=80
+class.Title.superclass=greenfoot.Actor
 target4.width=80
 target8.typeParameters=
 dependency7.from=Player1

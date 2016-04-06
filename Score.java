@@ -17,6 +17,6 @@ public class Score extends Actor
     {
         tempScore = Player1.score;
         setImage(new GreenfootImage("Score: " + Player1.score,50,Color.WHITE,null));
-        if(tempScore!= Player1.score) setImage(new GreenfootImage("Score: " + Player1.score,50,Color.BLACK,null));
+        if(tempScore!= Player1.score) setImage(new GreenfootImage("Score: " + Player1.score,50,Color.WHITE,null));
     }    
 }
