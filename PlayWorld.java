@@ -27,7 +27,6 @@ public class PlayWorld extends World
         addObject(new comp(), 600, 200);
         addObject(new winnerz(), 0, 0);
         addObject(new Score(), 400, 20);
-        addObject(new Title(), 400, 285);
         //winner();
     }
     }
